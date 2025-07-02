@@ -1,1 +1,2 @@
-# PC6_Parte2
+# PC6 - Derick Guzman Moya y CLAUDIA YESENIA POMAHUALLCA CHAHUA
+### Esta parte abordó el análisis espacial de datos socioeconómicos a nivel de condado en EE.UU. Se prepararon y combinaron shapefiles de geometría con tablas CSV externas (ingresos, vivienda, educación) para generar un GeoPackage consolidado. Se realizaron operaciones de fusión (merge), limpieza, selección de atributos clave, y visualización de variables numéricas mediante mapas coropléticos clasificados, usando GeoPandas, Seaborn y mapclassify. [PC6_2](https://derick047.github.io/PC6/)
